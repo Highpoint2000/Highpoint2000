@@ -3,7 +3,25 @@
 ![image](https://github.com/user-attachments/assets/9b65efb4-179d-415d-8afd-03436e6f5728)
 
 
+### The specified plugins can be downloaded here:
 
+[RDS-Logger](https://github.com/Highpoint2000/webserver-logger/releases)
+
+[Frequency Link](https://github.com/Highpoint2000/FrequencyLink/releases)
+
+[Live Map](https://github.com/Highpoint2000/LiveMap/releases)
+
+[Scanner](https://github.com/Highpoint2000/webserver-scanner/releases)
+
+[Peakmeter](https://github.com/Highpoint2000/PeakMeter/releases)
+
+[Station Logos](https://github.com/Highpoint2000/webserver-station-logos/releases)
+
+[Stream](https://github.com/Highpoint2000/stream/releases)
+
+[PST Rotator](https://github.com/Highpoint2000/PSTRotator/releases)
+
+[DX Alert](https://github.com/Highpoint2000/DX-Alert/releases)
 
 
 
