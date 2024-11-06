@@ -26,6 +26,8 @@
 
 [DX Alert](https://github.com/Highpoint2000/DX-Alert/releases)
 
+[CanLogServer](https://github.com/Highpoint2000/canlog-server/releases)
+
 
 
 <!---
