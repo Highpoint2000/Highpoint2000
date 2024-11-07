@@ -1,8 +1,6 @@
 # Pimp your [FM-DX-Webserver](https://github.com/NoobishSVK/fm-dx-webserver) with cool plugins!
 
-![image](https://github.com/user-attachments/assets/9cd8a119-9939-4951-906a-b50a599085f0)
-
-
+![image](https://github.com/user-attachments/assets/9cd8a119-9939-4951-906a-b50a599085f0)![image](https://github.com/user-attachments/assets/f8e4021c-0924-4e64-b64a-c835c3d665d5)
 
 ### The specified plugins can be downloaded here:
 
@@ -26,7 +24,11 @@
 
 [DX Alert](https://github.com/Highpoint2000/DX-Alert/releases)
 
+[Time Display](https://github.com/Highpoint2000/webserver-time/releases)
+
 [CanLogServer](https://github.com/Highpoint2000/canlog-server/releases)
+
+
 
 
 
