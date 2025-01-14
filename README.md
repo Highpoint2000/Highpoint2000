@@ -1,6 +1,7 @@
 # Pimp your [FM-DX-Webserver](https://github.com/NoobishSVK/fm-dx-webserver) with cool plugins!
 
-![image](https://github.com/user-attachments/assets/ef93af7d-fbf3-488a-8e6e-2e4649b75936)
+![image](https://github.com/user-attachments/assets/45477206-b4f8-46d9-a3d1-f72906b174c8)
+
 
 
 
