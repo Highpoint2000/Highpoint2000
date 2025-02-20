@@ -36,6 +36,22 @@
 
 [GPS](https://github.com/Highpoint2000/GPS/releases)
 
+#  Use an app for logging with the TEF Receiver!
+
+![image](https://github.com/user-attachments/assets/a5468727-171a-4ffa-9740-0486c5364f8d)
+
+### The TEF Logger App can be downloaded here:
+
+https://github.com/Highpoint2000/TEFLoggerApp
+
+#  Convert, edit, export and upload your logs with web tools!
+
+[TEF CSV to URDS Converter](https://tef.noobish.eu/logos/CSVtoURDS.html)
+
+[URDS to HTML Converter](https://tef.noobish.eu/logos/URDStoHTML.html)
+
+[URDS Uploader](https://tef.noobish.eu/logos/URDSuploader.html)
+
 <!---
 
 - 👋 Hi, I’m @Highpoint2000
