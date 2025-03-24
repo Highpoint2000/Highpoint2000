@@ -44,13 +44,24 @@
 
 https://github.com/Highpoint2000/TEFLoggerApp
 
-#  Convert, edit, export and upload your logs with web tools!
+#  Evaluate, analyze, convert, edit, export and upload your logs with web tools!
 
 [TEF CSV to URDS Converter](https://tef.noobish.eu/logos/CSVtoURDS.html)
 
+![image](https://github.com/user-attachments/assets/c8446667-1192-466f-8a3d-b690d164fdb8)
+
 [URDS to HTML Converter](https://tef.noobish.eu/logos/URDStoHTML.html)
 
+![image](https://github.com/user-attachments/assets/6630f338-7d12-43e2-9f83-db06bbe643d3)
+
+[URDS Map Viewer](https://tef.noobish.eu/logos/URDSMapViewer.html)
+
+![WhatsApp Bild 2025-03-23 um 07 22 32_4190a4c0](https://github.com/user-attachments/assets/3b7ea8a4-254a-4f2b-8e92-944b2054e5ba)
+
 [URDS Uploader](https://tef.noobish.eu/logos/URDSuploader.html)
+
+![image](https://github.com/user-attachments/assets/76e5fa98-d396-43a0-a00b-f8bf5886eb2f)
+
 
 <!---
 
