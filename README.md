@@ -1,6 +1,7 @@
 # Pimp your [FM-DX-Webserver](https://github.com/NoobishSVK/fm-dx-webserver) with cool plugins!
 
-![image](https://github.com/user-attachments/assets/45477206-b4f8-46d9-a3d1-f72906b174c8)
+![image](https://github.com/user-attachments/assets/55bb0081-6075-44c3-a629-0effca583c7a)
+
 
 
 
@@ -18,23 +19,25 @@
 
 [Live Map](https://github.com/Highpoint2000/LiveMap/releases)
 
+[ES Alert](https://github.com/Highpoint2000/ES-Alert/releases)
+
+[GPS](https://github.com/Highpoint2000/GPS/releases)
+
 [Peakmeter](https://github.com/Highpoint2000/PeakMeter/releases)
 
 [Station Logos](https://github.com/Highpoint2000/webserver-station-logos/releases)
 
 [Stream](https://github.com/Highpoint2000/stream/releases)
 
+[Time Display](https://github.com/Highpoint2000/webserver-time/releases)
+
 [PST Rotator](https://github.com/Highpoint2000/PSTRotator/releases)
 
 [DX Alert](https://github.com/Highpoint2000/DX-Alert/releases)
 
-[Time Display](https://github.com/Highpoint2000/webserver-time/releases)
-
-[CanLogServer](https://github.com/Highpoint2000/canlog-server/releases)
-
 [URDSuploader](https://github.com/Highpoint2000/URDSupload/releases)
 
-[GPS](https://github.com/Highpoint2000/GPS/releases)
+[CanLogServer](https://github.com/Highpoint2000/canlog-server/releases)
 
 #  Use an app for logging with the TEF Receiver!
 
