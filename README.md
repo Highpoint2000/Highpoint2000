@@ -41,7 +41,7 @@
 
 #  Use an app for logging with the TEF Receiver!
 
-![image](https://github.com/user-attachments/assets/a5468727-171a-4ffa-9740-0486c5364f8d)
+<img width="1158" height="1061" alt="Screenshot" src="https://github.com/user-attachments/assets/424bf2ea-d1bf-40e7-87d3-78ed8b804cc6" />
 
 ### The TEF Logger App can be downloaded here:
 
