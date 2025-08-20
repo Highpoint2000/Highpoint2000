@@ -1,6 +1,7 @@
 # Pimp your [FM-DX-Webserver](https://github.com/NoobishSVK/fm-dx-webserver) with cool plugins!
 
-<img width="778" height="771" alt="image" src="https://github.com/user-attachments/assets/96d765ba-c651-410b-abe6-08811917103e" />
+
+<img width="963" height="717" alt="image" src="https://github.com/user-attachments/assets/ea1418c3-1c02-442f-b01f-1aff0512cc18" />
 
 
 
@@ -42,7 +43,8 @@
 
 #  Use an app for logging with the TEF Receiver!
 
-<img width="780" height="775" alt="image" src="https://github.com/user-attachments/assets/fda8738a-3039-4d76-b6ff-7e3afd451552" />
+<img width="778" height="771" alt="image" src="https://github.com/user-attachments/assets/9e42401b-f262-4b0c-9e64-e78b988e1afc" />
+
 
 
 
