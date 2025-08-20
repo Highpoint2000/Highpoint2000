@@ -1,7 +1,7 @@
 # Pimp your [FM-DX-Webserver](https://github.com/NoobishSVK/fm-dx-webserver) with cool plugins!
 
 
-<img width="963" height="717" alt="image" src="https://github.com/user-attachments/assets/ea1418c3-1c02-442f-b01f-1aff0512cc18" />
+<img width="778" height="771" alt="image" src="https://github.com/user-attachments/assets/96d765ba-c651-410b-abe6-08811917103e" />
 
 
 
