@@ -45,7 +45,7 @@
 
 #  Use an app for logging with the TEF Receiver!
 
-<img width="778" height="771" alt="image" src="https://github.com/user-attachments/assets/9e42401b-f262-4b0c-9e64-e78b988e1afc" />
+<img width="786" height="779" alt="image" src="https://github.com/user-attachments/assets/64638e95-1b1b-4a1f-99ea-79143036c59d" />
 
 
 
