@@ -61,6 +61,10 @@ https://github.com/Highpoint2000/TEFLoggerApp
 
 ![image](https://github.com/user-attachments/assets/c8446667-1192-466f-8a3d-b690d164fdb8)
 
+[URDS ID Inserter](https://tef.noobish.eu/logos/URDS_ID_Inserter.html)
+
+<img width="1524" height="509" alt="image" src="https://github.com/user-attachments/assets/77b73466-12ed-4901-9f75-837ccbc6a82c" />
+
 [URDS to HTML Converter](https://tef.noobish.eu/logos/URDStoHTML.html)
 
 ![image](https://github.com/user-attachments/assets/6630f338-7d12-43e2-9f83-db06bbe643d3)
