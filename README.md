@@ -79,7 +79,9 @@ https://github.com/Highpoint2000/TEFLoggerApp
 
 [FMLIST Log Analyzer](https://tef.noobish.eu/logos/FMLIST_Log_Analyzer.html)
 
-<img width="841" height="680" alt="image" src="https://github.com/user-attachments/assets/2c610276-94df-43b6-880e-d3907e89db3e" />
+<img width="457" height="900" alt="image" src="https://github.com/user-attachments/assets/840acd0e-ed2a-43a5-a04a-bfdf5c9daa1f" />
+
+
 
 
 <!---
