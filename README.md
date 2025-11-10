@@ -53,7 +53,7 @@
 
 
 
-### The TEF Logger App can be downloaded here:
+The TEF Logger App can be downloaded here:
 
 https://github.com/Highpoint2000/TEFLoggerApp
 
