@@ -1,4 +1,6 @@
-# Pimp your [FM-DX-Webserver](https://github.com/NoobishSVK/fm-dx-webserver) with cool plugins!
+# Plugins, Apps & Webtools
+
+## Pimp your [FM-DX-Webserver](https://github.com/NoobishSVK/fm-dx-webserver) with cool plugins!
 
 
 
@@ -43,7 +45,7 @@
 
 [CanLogServer](https://github.com/Highpoint2000/canlog-server/releases)
 
-#  Use an app for logging with the TEF Receiver!
+##  Use an app for logging with the TEF Receiver!
 
 <img width="786" height="779" alt="image" src="https://github.com/user-attachments/assets/64638e95-1b1b-4a1f-99ea-79143036c59d" />
 
@@ -55,7 +57,7 @@
 
 https://github.com/Highpoint2000/TEFLoggerApp
 
-#  Evaluate, analyze, convert, edit, export and upload your logs with web tools!
+##  Evaluate, analyze, convert, edit, export and upload your logs with web tools!
 
 [TEF CSV to URDS Converter](https://tef.noobish.eu/logos/CSVtoURDS.html)
 
@@ -65,7 +67,7 @@ https://github.com/Highpoint2000/TEFLoggerApp
 
 <img width="1524" height="509" alt="image" src="https://github.com/user-attachments/assets/77b73466-12ed-4901-9f75-837ccbc6a82c" />
 
-[URDS to HTML Converter](https://tef.noobish.eu/logos/URDStoHTML.html)
+[URDS to HTML Converter - ID/TX Changer ](https://tef.noobish.eu/logos/URDStoHTML.html)
 
 ![image](https://github.com/user-attachments/assets/6630f338-7d12-43e2-9f83-db06bbe643d3)
 
@@ -82,6 +84,11 @@ https://github.com/Highpoint2000/TEFLoggerApp
 <img width="457" height="900" alt="image" src="https://github.com/user-attachments/assets/840acd0e-ed2a-43a5-a04a-bfdf5c9daa1f" />
 
 
+## Contact
+
+If you're interested in working with me or have any questions, don't hesitate to reach out! You can contact me via e-mail. I look forward to hearing from you!
+
+<a href="https://www.buymeacoffee.com/Highpoint" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 <!---
