@@ -60,7 +60,7 @@ https://github.com/Highpoint2000/TEFLoggerApp
 
 The FMDX Converter App can be downloaded here:
 
-[https://github.com/Highpoint2000/TEFLoggerApp](https://github.com/Highpoint2000/FMDXConnector)
+[https://github.com/Highpoint2000/FMDXConnector](https://github.com/Highpoint2000/FMDXConnector)
 
 
 ##  Evaluate, analyze, convert, edit, export and upload your logs with web tools!
