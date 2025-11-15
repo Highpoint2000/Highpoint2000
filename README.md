@@ -49,13 +49,19 @@
 
 <img width="786" height="779" alt="image" src="https://github.com/user-attachments/assets/64638e95-1b1b-4a1f-99ea-79143036c59d" />
 
-
-
-
-
 The TEF Logger App can be downloaded here:
 
 https://github.com/Highpoint2000/TEFLoggerApp
+
+##  Use the FMDX Converter app for local logging of web servers on your smartphone!
+
+<img width="351" height="779" alt="image" src="https://github.com/user-attachments/assets/3a256f0f-da21-4941-9f87-9e42bae00125" />
+
+
+The FMDX Converter App can be downloaded here:
+
+[https://github.com/Highpoint2000/TEFLoggerApp](https://github.com/Highpoint2000/FMDXConnector)
+
 
 ##  Evaluate, analyze, convert, edit, export and upload your logs with web tools!
 
