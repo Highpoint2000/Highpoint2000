@@ -4,10 +4,11 @@
 
 
 
-![image](https://github.com/user-attachments/assets/55bb0081-6075-44c3-a629-0effca583c7a)
 
 
 
+
+<img width="2000" height="717" alt="highpoint" src="https://github.com/user-attachments/assets/16231610-19ea-4ef0-a374-01d183902e63" />
 
 
 
@@ -44,6 +45,8 @@
 [URDSuploader](https://github.com/Highpoint2000/URDSupload/releases)
 
 [CanLogServer](https://github.com/Highpoint2000/canlog-server/releases)
+
+[Metrics Monitor](https://github.com/Highpoint2000/MetricsMonitor)
 
 ##  Use an app for logging with the TEF Receiver!
 
