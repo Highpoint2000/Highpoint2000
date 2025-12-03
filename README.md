@@ -5,10 +5,11 @@
 
 
 
+<img width="4406" height="1591" alt="Bild1" src="https://github.com/user-attachments/assets/ffb7ff41-3fa0-46de-9b51-f6d4d0e035cc" />
 
 
 
-<img width="2000" height="717" alt="highpoint" src="https://github.com/user-attachments/assets/16231610-19ea-4ef0-a374-01d183902e63" />
+
 
 
 
