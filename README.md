@@ -59,7 +59,7 @@
 
 [AI Denoiser](https://github.com/Highpoint2000/AI-Denoise)
 
-[RDS AI Dencoder](https://github.com/Highpoint2000/RDS-AI-Decoder)
+[RDS AI Encoder](https://github.com/Highpoint2000/RDS-AI-Decoder)
 
 ##  Use an app for logging with the TEF Receiver!
 
