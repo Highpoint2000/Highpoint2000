@@ -105,6 +105,11 @@ The FMDX Converter App can be downloaded here:
 
 <img width="457" height="900" alt="image" src="https://github.com/user-attachments/assets/840acd0e-ed2a-43a5-a04a-bfdf5c9daa1f" />
 
+[Sporadic E Monitor](https://highpoint.fmdx.org/webtools/sporadic-e-monitor.html)
+
+<img width="1280" height="906" alt="grafik" src="https://github.com/user-attachments/assets/a1143d21-6fce-47ae-817d-733e0fa094ac" />
+
+
 
 ## Contact
 
