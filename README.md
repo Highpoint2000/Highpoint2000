@@ -63,6 +63,8 @@
 
 [AF Validator](https://github.com/Highpoint2000/AF-Validator)
 
+[Airplane Scatter](https://github.com/Highpoint2000/AirplaneScatter)
+
 ##  Use an app for logging with the TEF Receiver!
 
 <img width="786" height="779" alt="image" src="https://github.com/user-attachments/assets/64638e95-1b1b-4a1f-99ea-79143036c59d" />
