@@ -59,7 +59,7 @@
 
 [AI Denoiser](https://github.com/Highpoint2000/AI-Denoise)
 
-[RDS AI Encoder](https://github.com/Highpoint2000/RDS-AI-Decoder)
+[RDS AI Decoder](https://github.com/Highpoint2000/RDS-AI-Decoder)
 
 [AF Validator](https://github.com/Highpoint2000/AF-Validator)
 
