@@ -17,55 +17,7 @@
 
 ### The specified plugins can be downloaded here:
 
-[RDS-Logger](https://github.com/Highpoint2000/webserver-logger/releases)
-
-[Frequency Link](https://github.com/Highpoint2000/FrequencyLink/releases)
-
-[Screenshot](https://github.com/Highpoint2000/webserver-screenshot/releases)
-
-[Scanner](https://github.com/Highpoint2000/webserver-scanner/releases)
-
-[Live Map](https://github.com/Highpoint2000/LiveMap/releases)
-
-[ES Alert](https://github.com/Highpoint2000/ES-Alert/releases)
-
-[GPS](https://github.com/Highpoint2000/GPS/releases)
-
-[Peakmeter](https://github.com/Highpoint2000/PeakMeter/releases)
-
-[Station Logos](https://github.com/Highpoint2000/webserver-station-logos/releases)
-
-[Stream](https://github.com/Highpoint2000/stream/releases)
-
-[Time Display](https://github.com/Highpoint2000/webserver-time/releases)
-
-[PST Rotator](https://github.com/Highpoint2000/PSTRotator/releases)
-
-[DX Alert](https://github.com/Highpoint2000/DX-Alert/releases)
-
-[URDSuploader](https://github.com/Highpoint2000/URDSupload/releases)
-
-[CanLogServer](https://github.com/Highpoint2000/canlog-server/releases)
-
-[Metrics Monitor](https://github.com/Highpoint2000/MetricsMonitor)
-
-[Country Flag](https://github.com/Highpoint2000/CountryFlag)
-
-[Sysinfo](https://github.com/Highpoint2000/Sysinfo)
-
-[LightFX](https://github.com/Highpoint2000/LightFX)
-
-[TropoForecast](https://github.com/Highpoint2000/TropoForecast)
-
-[AI Denoiser](https://github.com/Highpoint2000/AI-Denoise)
-
-[RDS AI Decoder](https://github.com/Highpoint2000/RDS-AI-Decoder)
-
-[AF Validator](https://github.com/Highpoint2000/AF-Validator)
-
-[Airplane Scatter](https://github.com/Highpoint2000/AirplaneScatter)
-
-[Meteor Scatter](https://github.com/Highpoint2000/MeteorScatter)
+[RDS-Logger](https://github.com/Highpoint2000/webserver-logger/releases)&nbsp;&nbsp;&nbsp;[Frequency Link](https://github.com/Highpoint2000/FrequencyLink/releases)&nbsp;&nbsp;&nbsp;[Screenshot](https://github.com/Highpoint2000/webserver-screenshot/releases)&nbsp;&nbsp;&nbsp;[Scanner](https://github.com/Highpoint2000/webserver-scanner/releases)&nbsp;&nbsp;&nbsp;[Live Map](https://github.com/Highpoint2000/LiveMap/releases)&nbsp;&nbsp;&nbsp;[ES Alert](https://github.com/Highpoint2000/ES-Alert/releases)&nbsp;&nbsp;&nbsp;[GPS](https://github.com/Highpoint2000/GPS/releases)&nbsp;&nbsp;&nbsp;[Peakmeter](https://github.com/Highpoint2000/PeakMeter/releases)&nbsp;&nbsp;&nbsp;[Station Logos](https://github.com/Highpoint2000/webserver-station-logos/releases)&nbsp;&nbsp;&nbsp;[Stream](https://github.com/Highpoint2000/stream/releases)&nbsp;&nbsp;&nbsp;[Time Display](https://github.com/Highpoint2000/webserver-time/releases)&nbsp;&nbsp;&nbsp;[PST Rotator](https://github.com/Highpoint2000/PSTRotator/releases)&nbsp;&nbsp;&nbsp;[DX Alert](https://github.com/Highpoint2000/DX-Alert/releases)&nbsp;&nbsp;&nbsp;[URDSuploader](https://github.com/Highpoint2000/URDSupload/releases)&nbsp;&nbsp;&nbsp;[CanLogServer](https://github.com/Highpoint2000/canlog-server/releases)&nbsp;&nbsp;&nbsp;[Metrics Monitor](https://github.com/Highpoint2000/MetricsMonitor)&nbsp;&nbsp;&nbsp;[Country Flag](https://github.com/Highpoint2000/CountryFlag)&nbsp;&nbsp;&nbsp;[Sysinfo](https://github.com/Highpoint2000/Sysinfo)&nbsp;&nbsp;&nbsp;[LightFX](https://github.com/Highpoint2000/LightFX)&nbsp;&nbsp;&nbsp;[TropoForecast](https://github.com/Highpoint2000/TropoForecast)&nbsp;&nbsp;&nbsp;[AI Denoiser](https://github.com/Highpoint2000/AI-Denoise)&nbsp;&nbsp;&nbsp;[RDS AI Decoder](https://github.com/Highpoint2000/RDS-AI-Decoder)&nbsp;&nbsp;&nbsp;[AF Validator](https://github.com/Highpoint2000/AF-Validator)&nbsp;&nbsp;&nbsp;[Airplane Scatter](https://github.com/Highpoint2000/AirplaneScatter)&nbsp;&nbsp;&nbsp;[Meteor Scatter](https://github.com/Highpoint2000/MeteorScatter)
 
 ##  Use an app for logging with the TEF Receiver!
 
