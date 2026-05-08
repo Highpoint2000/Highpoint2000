@@ -49,7 +49,7 @@ The FMDX Converter App can be downloaded here:
 <img width="1524" height="509" alt="image" src="https://github.com/user-attachments/assets/77b73466-12ed-4901-9f75-837ccbc6a82c" />
 <br>
 
-[URDS to HTML Converter - ID/TX Changer ](https://highpoint.fmdx.org/webtools/logos/URDStoHTML.html)
+[URDS to HTML Converter - ID/TX Changer ](https://highpoint.fmdx.org/webtools/URDStoHTML.html)
 
 ![image](https://github.com/user-attachments/assets/6630f338-7d12-43e2-9f83-db06bbe643d3)
 <br>
